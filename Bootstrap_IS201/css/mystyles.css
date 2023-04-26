@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.header{
+    background-color:bisque;
+
+}
+.Work{
+    background-color:lightgrey;
+    border: black;
+}
+.Internships{
+    background-color: mintcream;
+}
+
+.Education{
+    background-color: thistle;
+}
+
+.Hobbies{
+    background-color:mistyrose
+}
